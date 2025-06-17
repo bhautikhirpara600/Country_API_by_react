@@ -1,6 +1,6 @@
 import Header from "./Components/Header"
 import { Outlet } from "react-router"
-import { ThemeProvider } from "src/Contexts/ThemeContext"
+import { ThemeProvider } from "./Contexts/ThemeContext"
 import { SearchQueryProvider } from "./Contexts/SearchQueryContext"
 
 export default function App() {
