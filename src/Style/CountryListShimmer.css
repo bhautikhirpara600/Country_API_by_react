@@ -1,0 +1,23 @@
+.shimmer-card {
+    height: 350px;
+}
+
+.shimmer-title, .shimmer-card p {
+    margin-left: 20px;
+    background-color: #ccc;
+}
+
+.shimmer-title {
+    width: 130px;
+    height: 32px;
+    
+}
+
+.shimmer-card p {
+    width: 180px;
+    height: 21px;
+}
+
+.shimmer-card p:last-child {
+    width: 130px;
+}

@@ -1,0 +1,40 @@
+.my-btn, .img-div, .h1-div, .p-text, .border-heading, .border-text {
+    background-color: #ccc;
+}
+
+.my-btn {
+    width: 105px;
+    height: 34px;
+}
+
+.img-div {
+    width: 355px;
+    height: 220px;
+}
+
+.detail-text-div{
+    width: 470px;
+    height: 317px;
+}
+
+.h1-div {
+    width: 150px;
+    height: 43px;
+    margin-block: 20px;
+}
+
+.p-text {
+    width: 200px;
+    height: 21px;
+}
+
+.border-heading {
+    width: 130px;
+    height: 27px;
+    margin-right: 10px;
+}
+
+.border-text {
+    width: 70px;
+    height: 27px;
+}
